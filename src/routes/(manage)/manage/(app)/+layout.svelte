@@ -169,7 +169,7 @@
 </main>
 
 <!-- ========== FOOTER ========== -->
-<footer class="mx-auto mt-8 w-full max-w-3xl px-4 sm:px-6 lg:px-8">
+<!-- <footer class="mx-auto mt-8 w-full max-w-3xl px-4 sm:px-6 lg:px-8">
   <div class="border-t py-6 dark:border-neutral-700">
     <div class="flex flex-wrap items-center justify-between gap-2">
       <div>
@@ -192,9 +192,7 @@
           </a>
         </p>
       </div>
-      <!-- End Col -->
 
-      <!-- List -->
       <ul class="flex flex-wrap items-center">
         <li
           class="relative inline-block pe-4 text-xs before:absolute before:end-1.5 before:top-1/2 before:size-[3px] before:-translate-y-1/2 before:rounded-full before:bg-gray-400 last:pe-0 last-of-type:before:hidden dark:text-neutral-500 dark:before:bg-neutral-600"
@@ -252,8 +250,7 @@
           </a>
         </li>
       </ul>
-      <!-- End List -->
     </div>
   </div>
-</footer>
+</footer> -->
 <!-- ========== END FOOTER ========== -->
